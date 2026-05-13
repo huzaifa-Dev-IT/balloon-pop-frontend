@@ -1,0 +1,11 @@
+{
+  "name": "nexusplay-platform",
+  "version": "1.0.0",
+  "description": "Multiplayer Gaming Platform",
+  "scripts": {
+    "start": "echo 'Platform ready for Vercel'"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
